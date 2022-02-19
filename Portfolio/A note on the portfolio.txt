@@ -1,0 +1,11 @@
+In this portfolio are several files, and I thought it might be helpful to type a little note regarding what each is.
+
+There are two webpages that I coded in my first year Web Tech classes, one of which is a personal page introducing us to our professor.
+The other web page is one that I quickly mocked up for my father. He was formerly the owner of Westman Chiropractic, 
+and during my first year he asked that I make him a basic webpage that would contain only essential information about his business as he had no interest in online booking options.
+
+To demonstrate my coding abilities in other ares, I enclosed projects that I completed for my Data Structures and Algorithms class as well as code from my Artificial Intelligience class.
+While these are not related to web design, I thought they may be of interest purely on the basis of showing some of my coding experience and style.
+The code for the AI assingment is for a genetic algorithm, but it will not run. This is because my proffesor wrote some of the background code and I felt that I should only submit what I personally wrote.
+
+Thanks for reading, hope you enjoy.
